@@ -12,7 +12,7 @@ author:              (c) OleksandrZhabenko 2020-2022, 2024
 maintainer:          oleksandr.zhabenko@yahoo.com
 copyright:           Oleksandr Zhabenko, 2020-2022, 2024
 category:            Sound
-bug-tracker:         https://github.com/Oleksandr-Zhabenko/mmsyn7l/issues
+bug-reports:         https://github.com/Oleksandr-Zhabenko/mmsyn7l/issues
 build-type:          Simple
 extra-source-files:  CHANGELOG.md, README.md
 cabal-version:       >=1.10
